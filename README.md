@@ -1,4 +1,5 @@
-![Screenshot](/Users/marlonthompson/weather/src/sunny.png)
+![Screenshot](https://github.com/MarlonThompson71/myWeatherApp/assets/59469213/6a476293-02d7-44c0-8a87-fafea52fc068
+)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
