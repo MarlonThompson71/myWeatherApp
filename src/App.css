@@ -6,11 +6,16 @@
 
 html { 
 	background-color: #f7f7f7; 
+  background-image: url("sunny.png");
+  background-repeat: no-repeat;
+        background-size: "cover";
 } 
 
 .app-name { 
+  font-family:monospace;
+  font-weight: bold;
 	font-size: 2.3rem; 
-	color: rgb(17, 144, 0); 
+	color: rgb(6, 6, 6); 
 	margin-bottom: 16px; 
 } 
 
@@ -27,6 +32,7 @@ html {
 	border-radius: 10px; 
 	padding-bottom: 32px; 
 	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+  
 } 
 
 .city-search { 

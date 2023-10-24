@@ -1,5 +1,6 @@
 import { Oval } from "react-loader-spinner";
 import React, { useState } from "react";
+
 import axios from "axios";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFrown } from "@fortawesome/free-solid-svg-icons";
@@ -73,7 +74,7 @@ function WeatherApp() {
 
   return (
     <div className="App">
-      <h1 className="app-name">Marlon Thompson Weather App</h1>
+      <h1 className="app-name">Weather App</h1>
       <div className="search-bar">
         <input
           type="text"
